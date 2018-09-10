@@ -10,6 +10,9 @@ namespace Calculation
     {
         static void Main(string[] args)
         {
+            CalculSimple Cs = new CalculSimple();
+            Cs.Addition(0, 0);
+           
         }
     }
 }
